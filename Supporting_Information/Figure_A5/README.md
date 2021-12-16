@@ -1,0 +1,1 @@
+* Each file `Energy_Spectrum_beam_sigma_XXdeg.txt` is for the beaming angle gaussian sigma XX (in degrees). First column is electron energy (in keV) and second column is normalized counts (n/de).

@@ -1,0 +1,1 @@
+`MET11band4date20190324time0031lat015745553015.tif` : geotaget image (i.e. with geographical coordinates associated to each pixels) at the time of the event (2019 03/24, 00:31), from Meteosat-11

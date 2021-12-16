@@ -1,0 +1,1 @@
+* Each file `Energy_Spectrum_rd_XXkm.txt` is for the radial distance XX (in km). First column is electron energy (in keV) and second column is normalized counts (n/de).
